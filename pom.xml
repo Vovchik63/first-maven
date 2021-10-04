@@ -19,7 +19,7 @@
   <scm>
     <connection>scm:git:git@github.com:Vovchik63/first-maven.git</connection>
     <developerConnection>scm:git:git@github.com:Vovchik63/first-maven.git</developerConnection>
-    <url>https://github.com/dmdev2020/apache-maven-starter</url>
+    <url>https://github.com/Vovchik63/first-maven</url>
     <tag>first-maven-1.0.1</tag>
   </scm>
 
