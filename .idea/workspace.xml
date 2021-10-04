@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9031460-7a56-4ec5-b733-04ea7c15f741" name="Default Changelist" comment="third commib5" />
+    <list default="true" id="a9031460-7a56-4ec5-b733-04ea7c15f741" name="Default Changelist" comment="third commib5">
+      <change beforePath="$PROJECT_DIR$/database/target/database-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/database/target/database-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/database/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/database/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release.properties" beforeDir="false" afterPath="$PROJECT_DIR$/release.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0.0/WEB-INF/lib/database-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0.0/WEB-INF/lib/database-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0.0/WEB-INF/lib/service-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0.0/WEB-INF/lib/service-1.0.0.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="disabledProfiles">
+    <option name="enabledProfiles">
       <list>
         <option value="artifactory" />
       </list>
@@ -46,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633367276256</updated>
       <workItem from="1633367283385" duration="5714000" />
-      <workItem from="1633373125217" duration="1496000" />
+      <workItem from="1633373125217" duration="2061000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1633370304665</created>
@@ -90,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633374620323</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="third commib5">
+      <created>1633374718344</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633374718344</updated>
+    </task>
+    <task id="LOCAL-00008" summary="third commib5">
+      <created>1633374979687</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633374979687</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
