@@ -7,7 +7,12 @@
     <list default="true" id="a9031460-7a56-4ec5-b733-04ea7c15f741" name="Default Changelist" comment="third commib5">
       <change beforePath="$PROJECT_DIR$/database/target/database-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/database/target/database-1.0.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/database/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/database/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/target/lib/database-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/service/target/lib/database-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/target/service-1.0.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/service/target/service-1.0.0-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/target/service-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/service/target/service-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/target/web-1.0.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0.0.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/target/web-1.0.0/WEB-INF/lib/database-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0.0/WEB-INF/lib/database-1.0.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/target/web-1.0.0/WEB-INF/lib/service-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0.0/WEB-INF/lib/service-1.0.0.jar" afterDir="false" />
@@ -42,9 +47,12 @@
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../../android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Владимир\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a9031460-7a56-4ec5-b733-04ea7c15f741" name="Default Changelist" comment="" />
@@ -53,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633367276256</updated>
       <workItem from="1633367283385" duration="5714000" />
-      <workItem from="1633373125217" duration="2548000" />
+      <workItem from="1633373125217" duration="2868000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1633370304665</created>
@@ -130,6 +138,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/service" />
+    </ignored-roots>
     <MESSAGE value="first commit" />
     <MESSAGE value="third commib" />
     <MESSAGE value="third commib5" />
