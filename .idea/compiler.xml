@@ -12,10 +12,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="database" target="15" />
+      <module name="database" target="1.5" />
       <module name="first-maven" target="15" />
-      <module name="service" target="15" />
-      <module name="web" target="15" />
+      <module name="service" target="1.5" />
+      <module name="web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

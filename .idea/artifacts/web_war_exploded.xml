@@ -13,14 +13,6 @@
         <element id="directory" name="classes">
           <element id="module-output" name="web" />
         </element>
-        <element id="directory" name="lib">
-          <element id="archive" name="service-1.0.0.jar">
-            <element id="module-output" name="service" />
-          </element>
-          <element id="archive" name="database-1.0.0.jar">
-            <element id="module-output" name="database" />
-          </element>
-        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/web/target/web-1.0.0/META-INF/MANIFEST.MF" />
