@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9031460-7a56-4ec5-b733-04ea7c15f741" name="Default Changelist" comment="third commib5">
-      <change beforePath="$PROJECT_DIR$/service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release.properties" beforeDir="false" afterPath="$PROJECT_DIR$/release.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633367276256</updated>
       <workItem from="1633367283385" duration="5714000" />
+      <workItem from="1633373125217" duration="975000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1633370304665</created>
@@ -100,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
