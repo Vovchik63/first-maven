@@ -5,7 +5,7 @@
 
   <groupId>com.dmdev</groupId>
   <artifactId>first-maven</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
@@ -21,7 +21,7 @@
     <connection>scm:git:git@github.com:Vovchik63/first-maven.git</connection>
     <developerConnection>scm:git:git@github.com:Vovchik63/first-maven.git</developerConnection>
     <url>https://github.com/Vovchik63/first-maven</url>
-    <tag>first-maven-1.0.3</tag>
+    <tag>first-maven-1.0.2</tag>
   </scm>
 
   <!--  project.groupId-->
