@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/database/database.iml" filepath="$PROJECT_DIR$/database/database.iml" />
       <module fileurl="file://$PROJECT_DIR$/first-maven.iml" filepath="$PROJECT_DIR$/first-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-plugin/hello-plugin.iml" filepath="$PROJECT_DIR$/hello-plugin/hello-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>
