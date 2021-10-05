@@ -4,11 +4,11 @@
     <parent>
         <artifactId>first-maven</artifactId>
         <groupId>com.dmdev</groupId>
-        <version>1.0.4</version>
+        <version>1.0.5-SNAPSHOT</version>
     </parent>
 
     <artifactId>web</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <dependencies>
@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.dmdev</groupId>
             <artifactId>service</artifactId>
-            <version>1.0.3</version>
+            <version>1.0.4-SNAPSHOT</version>
         </dependency>
 
         <dependency>
