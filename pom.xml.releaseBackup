@@ -5,7 +5,7 @@
 
   <groupId>com.dmdev</groupId>
   <artifactId>first-maven</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
@@ -231,11 +231,11 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexus</id>
-      <url>http://localhost:8081/repository/maven-snapshots/</url>
+      <url>http://localhost:9000/repository/maven-snapshots/</url>
     </snapshotRepository>
     <repository>
       <id>nexus</id>
-      <url>http://localhost:8081/repository/maven-releases/</url>
+      <url>http://localhost:9000/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
 
