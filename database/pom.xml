@@ -4,18 +4,18 @@
     <parent>
         <artifactId>first-maven</artifactId>
         <groupId>com.dmdev</groupId>
-        <version>1.0.3-SNAPSHOT</version>
+        <version>1.0.3</version>
     </parent>
 
     <artifactId>database</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.2</version>
 
 <build>
     <plugins>
         <plugin>
             <groupId>com.dmdev</groupId>
             <artifactId>hello-plugin</artifactId>
-            <version>1.0.2-SNAPSHOT</version>
+            <version>1.0.2</version>
             <executions>
                 <execution>
                     <goals>
