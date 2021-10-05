@@ -7,7 +7,7 @@
   <description></description>
   <groupId>com.dmdev</groupId>
   <artifactId>hello-plugin</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.3-SNAPSHOT</version>
   <goalPrefix>hello</goalPrefix>
   <mojos>
     <mojo>
